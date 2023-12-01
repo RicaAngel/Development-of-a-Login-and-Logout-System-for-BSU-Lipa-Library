@@ -26,27 +26,20 @@ The project utilizes PHP as the primary programming language and the database is
 1. Clone the Repository:
 Open your terminal or command prompt and navigate to the desired location where you want to store the project files. Then, use the following command to clone the project repository:
 git clone https://github.com/RicaAngel/Development-of-a-Login-and-Logout-System-for-BSU-Lipa-Library.git
-
 2. Set Up XAMPP with PHPMyAdmin:
 Download and install XAMPP, a complete web development environment that includes Apache, MySQL, PHP, and PHPMyAdmin. Ensure that Apache and MySQL are running properly in your XAMPP server.
-
 3. Create Database:
 Open PHPMyAdmin in your web browser. Click on the "Databases" tab and create a new database named "db_nt3102".
-
 4. Import Database:
 Locate the "database" folder within the cloned project directory. Extract the SQL file from the database folder and import it into the newly created "db_nt3102" database in PHPMyAdmin.
-
 5. Place Project Files:
 Navigate to the "htdocs" folder within your XAMPP installation directory. Copy the entire contents of the cloned project directory into the "htdocs" folder.
-
 6. Access Project:
 Open your web browser and type the following URLs to access the respective interfaces:
-
 * Student Login and Logout: [localhost/BSU-Library-Login-Logout]
-
 * Admin and Employee Login and Logout: [localhost/BSU-Library-Login-Logout/admin]
 
-* Ensure that Apache and MySQL are running in your XAMPP server before accessing these URLs.
+Ensure that Apache and MySQL are running in your XAMPP server before accessing these URLs.
 
 ## Group Members:
 Barleta, Rica Angel A.
