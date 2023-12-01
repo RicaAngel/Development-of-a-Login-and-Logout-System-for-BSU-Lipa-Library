@@ -49,6 +49,7 @@ Navigate to the "htdocs" folder within your XAMPP installation directory. Copy t
 
 ### 6. Access Project:
 Open your web browser and type the following URLs to access the respective interfaces:
+
 * Student Login and Logout: [localhost/BSU-Library-Login-Logout]
 * Admin and Employee Login and Logout: [localhost/BSU-Library-Login-Logout/admin]
 
