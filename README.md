@@ -42,8 +42,8 @@ Open your web browser and type the following URLs to access the respective inter
 Ensure that Apache and MySQL are running in your XAMPP server before accessing these URLs.
 
 ## Group Members:
-Barleta, Rica Angel A.
-Estor, Jed Khan M.
-Igle, Mikko D.
-Plata, Janna Pearlene J.
-Reyes, Christian Jay B.
+* Barleta, Rica Angel A.
+* Estor, Jed Khan M.
+* Igle, Mikko D.
+* Plata, Janna Pearlene J.
+* Reyes, Christian Jay B.
